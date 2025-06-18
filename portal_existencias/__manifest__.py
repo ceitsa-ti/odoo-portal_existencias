@@ -7,7 +7,10 @@
     'category': 'Website',
     'depends': ['website'],
     'data': [
-        'views/portal_stock_template.xml'
+        'security/ir.model.access.csv',
+        'security/security.xml',
+        'views/portal_stock_template.xml',
+        'views/portal_stock_menu.xml',
     ],
     'installable': True,
     'application': False,
