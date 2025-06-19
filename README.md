@@ -1,5 +1,5 @@
 # odoo-portal_existencias
-dt4iwp-codex/validate-and-complete-odoo-portal-stock-module
+
 This Odoo 17 module allows portal users to view stock availability without consuming internal licenses. It adds a "Stock" link on the website that lists the on-hand quantity for each sellable product.
 
 ### Installation
