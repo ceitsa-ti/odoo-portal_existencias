@@ -4,6 +4,8 @@
     'summary': 'Módulo para mostrar existencias a usuarios tipo portal',
     'sequence': 10,
     'author': 'CEITSA',
+    'website': 'https://www.ceitsa.com',
+    'license': 'LGPL-3',
     'category': 'Website',
     'depends': ['website'],
     'data': [
@@ -16,3 +18,4 @@
     'application': False,
     'auto_install': False,
 }
+
