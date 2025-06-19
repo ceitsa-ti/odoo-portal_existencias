@@ -4,7 +4,16 @@ This Odoo 17 module allows portal users to view stock availability without consu
 
 ### Installation
 
-Zip the `portal_existencias` directory and install it through Odoo's Apps interface or place the directory inside your custom addons path.
+Zip **only** the contents of the `portal_existencias` directory (do not include this repository's root). The zip should contain the module folder itself:
+
+```
+portal_existencias/
+    __init__.py
+    __manifest__.py
+    controllers/
+    security/
+    views/
+```
 
 ### Usage
 
